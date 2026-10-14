@@ -1,5 +1,5 @@
 {
- "start_url": "index.htm?installed=true",
+ "theme_color": "#000000",
  "name": "Churrasquinho da Família Eventos",
  "display": "fullscreen",
  "icons": [
@@ -40,5 +40,5 @@
   }
  ],
  "background_color": "#000000",
- "theme_color": "#000000"
+ "start_url": "index.htm?installed=true"
 }
